@@ -20,10 +20,10 @@
   },
   "dependencies": {
     "@discordjs/builders": "^1.9.0",
-    "@discordjs/rest": "^2.4.0",
+    "@discordjs/rest": "^2.6.1",
     "@discordjs/voice": "^0.17.0",
     "discord-api-types": "^0.37.110",
-    "discord.js": "^14.16.3",
+    "discord.js": "^14.26.0",
     "dotenv": "^16.4.5",
     "mysql2": "^3.9.4",
     "node-schedule": "^2.1.1",
