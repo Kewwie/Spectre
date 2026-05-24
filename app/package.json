@@ -28,6 +28,6 @@
     "mysql2": "^3.9.4",
     "node-schedule": "^2.1.1",
     "tsconfig-paths": "^4.2.0",
-    "typeorm": "^0.3.20"
+    "typeorm": "^1.0.0"
   }
 }
